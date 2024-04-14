@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning FullStack
-- 🔭 I’m currently working on MineSweeper In Java
+- 🔭 I’m currently working on a MineSweeper game In Java
 - 📫 How to reach me: https://www.linkedin.com/in/ibrahim-mohamed-167a53273/ & ibrahim.mohamed.im2002@gmail.com
 
 <!--
