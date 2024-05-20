@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ibrahim Mohamed</h1>
 <h3 align="center">A passionate Computer Scientist and Software Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ibmoh" alt="ibmoh" /></a> </p>
 
 - 🔭 I’m currently working on [Minesweeper](https://github.com/IbMoh/MineSweeper)
 
