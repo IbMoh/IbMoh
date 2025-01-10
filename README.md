@@ -93,6 +93,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/IbMoh/IbMoh/output/snake.svg" alt="Snake animation" />
-
 ###
