@@ -9,7 +9,7 @@
 
 ###
 
-<h3 align="center">Tech Stack</h3>
+<h2 align="center">Tech Stack</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
